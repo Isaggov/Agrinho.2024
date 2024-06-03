@@ -1,13 +1,13 @@
 
-    body{    --cor-de-fundo: rgb(232, 243, 228);
-img{ width: 10%;}
-header {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: space-around;
+  :root{ --cor-de-fundo:rgb(77, 136, 126);
+
+    
+    body{ 
+
+    background-color:var(--cor-de-fundo)}
+}
   
-  }
+  
   .introducao {
     display: flex;
     margin: 0px;
@@ -21,4 +21,4 @@ header {
     padding-left:99px;
 }
 
-}
+
