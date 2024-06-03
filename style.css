@@ -1,28 +1,7 @@
 
-  :root{ --cor-de-fundo:rgb(77, 136, 126);
-
-    
-    body{ 
-
-    background-color:var(--cor-de-fundo);}
-    font-family: "./", serif;
-  font-weight: 400;
-  font-style: italic;
-  min-height: 100vh;
-}
-  
-  
-  .introducao {
-    display: flex;
-    margin: 0px;
-    padding: 0px;
-    background-color: rgb(112, 167, 139); 
-}
 .titulo{
-    
-    background-color: rgb(23, 43, 38);
-    margin-bottom: 0px;
-    padding-left:80px;
+    color: rgb(5, 22, 18);
+    font-size: large;
 }
 
 
