@@ -1,5 +1,5 @@
 :root{
-    --cor-de-fundo: rgb(232, 243, 228);
+    body{    --cor-de-fundo: rgb(232, 243, 228);
 }
 img{ width: 10%;}
 header {
@@ -13,6 +13,8 @@ header {
     display: flex;
     margin: 0px;
     padding: 0px;
-    background-color: rgb(112, 167, 139);
+    background-color: rgb(112, 167, 139); 
+}
+ }
 
-  }
+
