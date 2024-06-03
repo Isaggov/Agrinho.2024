@@ -5,6 +5,10 @@
     body{ 
 
     background-color:var(--cor-de-fundo);}
+    font-family: "./", serif;
+  font-weight: 400;
+  font-style: italic;
+  min-height: 100vh;
 }
   
   
