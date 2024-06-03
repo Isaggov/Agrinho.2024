@@ -13,7 +13,13 @@ header {
     margin: 0px;
     padding: 0px;
     background-color: rgb(112, 167, 139); 
-}.titulo
+}
+.titulo{
+    background-color: rgb(23, 43, 38);
+    margin-bottom: 0px;
+    padding-left:99px;
+}
+
 
 }
       
