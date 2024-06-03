@@ -1,6 +1,5 @@
 :root{
     body{    --cor-de-fundo: rgb(232, 243, 228);
-}
 img{ width: 10%;}
 header {
     display: flex;
@@ -16,5 +15,8 @@ header {
     background-color: rgb(112, 167, 139); 
 }
  }
+
+    }
+
 
 
