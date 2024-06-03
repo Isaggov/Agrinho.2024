@@ -2,3 +2,10 @@
     --cor-de-fundo: rgb(232, 243, 228);
 }
 img{ width: 10%;}
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;,
+  
+  }
