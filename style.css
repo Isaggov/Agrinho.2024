@@ -34,4 +34,11 @@ div{
 @media screen and (mi-width: 1728){ 
 
 }
+
+.lalezar-regular {
+   font-family: "Lalezar", system-ui;
+   font-weight: 400;
+   font-style: normal;
+ }
+ 
    
