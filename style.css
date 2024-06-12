@@ -12,7 +12,7 @@ header{
 
 }
  
-section{
+.intro{
    display: flex;
    align-items: center;
    background-color: rgb(89, 163, 139);
