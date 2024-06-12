@@ -19,6 +19,7 @@ header{
    color: rgb(18, 48, 41);
    margin: 0px 0;
    padding: 10px 50px;
+   image-rendering: 10px;
 }
 
 div{ 
