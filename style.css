@@ -10,6 +10,7 @@ header{
    justify-content: flex-start;
    padding: 10px;
    color: #193C33;
+   font-style: ze;
 }
  
 .intro{
@@ -34,6 +35,9 @@ div{
 @media screen and (mi-width: 1728){ 
 
 }
-
-
-   
+.lalezar-regular {
+   font-family: "Lalezar", system-ui;
+   font-weight: 400;
+   font-style: normal;
+ }
+ 
