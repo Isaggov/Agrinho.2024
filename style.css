@@ -24,3 +24,8 @@ section{
 div{ 
    padding: 30px;
 }
+
+@media screen and (mi-width: 1728){ 
+
+}
+   
