@@ -16,9 +16,9 @@ header{
 .intro{
    display: flex;
    align-items: center;
-   background-color: rgb(82, 128, 113);
+   background-color: rgb(255, 255, 255);
    color: rgb(18, 48, 41);
-   margin: 0px 0;
+   margin: px 0;
    padding: 10px 50px;
    
 }
