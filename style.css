@@ -1,7 +1,26 @@
-
-.titulo {
-   color: blue;
-   font-size: large
+*{
+   margin: 0;
+   padding: 0;
 }
 
+header{
+   background-color: aliceblue;
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   padding: 10px;
 
+}
+ 
+section{
+   display: flex;
+   align-items: center;
+   background-color: aliceblue;
+   color: rgb(18, 48, 41);
+   margin: 10px 0;
+   padding: 10PX 20PX;
+}
+
+div{ 
+   padding: 30px;
+}
