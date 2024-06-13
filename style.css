@@ -18,7 +18,7 @@ header{
    align-items: flex-start;
    background-color: rgb(255, 255, 255);
    color: rgb(18, 48, 41);
-   margin: 2%;
+   margin: 1%;
    padding: 1% 10%;
    flex-direction: column;
 
@@ -45,7 +45,7 @@ div{
    display: flex;
    align-content: flex-start;
    border-color: rgb(255, 255, 255);
-   margin: 2%;
+   margin: 1%;
    padding: 1% 10%;
    flex-direction: column;
    justify-content: flex-start;
