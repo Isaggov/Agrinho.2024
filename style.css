@@ -33,7 +33,7 @@ header{
 div{ 
    padding: 30px;
 }
-@media screen and (mi-width: 1728){ 
+@media screen and (min-width: 1728px){ 
 
 }
 .lalezar-regular {
