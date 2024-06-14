@@ -4,7 +4,7 @@
 }
 
 header{
-   background-color: rgb(142, 175, 166);
+   background-color: rgb(104, 134, 126);
    display: flex;
    align-items: center;
    justify-content: flex-start;
@@ -27,7 +27,7 @@ header{
 
 .img{
 
-   width: 8%;
+   width: 15%;
 }
 
 div{ 
