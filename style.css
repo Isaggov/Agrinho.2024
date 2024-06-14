@@ -44,7 +44,11 @@ header{
 div{ 
    padding: 30px;
 }
-@media screen and (min-width: 450px)
+@media screen and (min-width: 450px){
+   .texto1{
+      font-size: large;
+   }
+}
 
 
 .lalezar-regular {
