@@ -57,8 +57,8 @@ div{
    margin: 1%;
    padding: 1% 10%;
    flex-direction: column;
-   justify-content: flex-start;
-
-
-   
+   justify-content: flex-start;  
+}
+.titulo{
+   width: 35%;
 }
