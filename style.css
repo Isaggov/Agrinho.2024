@@ -46,15 +46,15 @@ header{
 div{ 
    padding: 30px;
 }
-@media screen and (max-width: 800px){
+@media screen and (max-width:700){
    .texto1{
-      font-size:xx-large;
+      font-size: xx-large;
    }
    .texto2{
-      font-size:xx-large;
-      
+      font-size: xx-large;
    }
-  }
+} 
+   
 
 .texto1{
    display: flex;
