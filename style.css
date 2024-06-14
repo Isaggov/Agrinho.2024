@@ -4,7 +4,7 @@
 }
 
 header{
-   
+   white-space: 20%;
    background-color: rgb(104, 134, 126);
    display: flex;
    align-items: center;
