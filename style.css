@@ -46,7 +46,7 @@ header{
 div{ 
    padding: 30px;
 }
-@media screen and (max-width:700){
+@media screen and (min-width:450){
    .texto1{
       font-size: xx-large;
    }
