@@ -56,11 +56,6 @@ div{
    }
   }
 
-.lalezar-regular {
-   font-family: "Lalezar", system-ui;
-   font-weight: 400;
-   font-style: normal;}
-
 .texto1{
    display: flex;
    align-content: flex-start;
