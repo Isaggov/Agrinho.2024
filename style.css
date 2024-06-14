@@ -52,6 +52,14 @@ div{
       font-size:xx-large;
       
    }
+   @media screen and (min-width: 700px){
+      .texto1{
+         font-size:small;
+      }
+      .texto2{
+         font-size:small;
+         
+   }
 }
 
 
