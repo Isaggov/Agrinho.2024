@@ -63,6 +63,7 @@ div{
    display: flex;
    width: 135px;
    color: #193C33;
+   flex-direction: row;
    
 }
 
@@ -70,5 +71,6 @@ div{
    display: flex;
    width: 50px;
    color: #193C33;
+   flex-direction: row;
    
 }
