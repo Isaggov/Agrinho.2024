@@ -42,18 +42,9 @@ header{
 div{ 
    padding: 30px;
 }
-@media screen and (min-width: 1728px){ 
+@media screen and (min-width: 452px)
 
-}
-@media screen and (min-width: 360px){ 
 
-}
-@media screen and (min-width: 375px){ 
-
-}
-@media screen and (min-width: 412px){ 
-
-}
 .lalezar-regular {
    font-family: "Lalezar", system-ui;
    font-weight: 400;
