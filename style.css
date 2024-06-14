@@ -61,7 +61,7 @@ div{
 }
 .titulo{
    display: flex;
-   width: 50px;
+
    color: #193C33;
    flex-direction: row;
    margin: 0%;
@@ -71,7 +71,7 @@ div{
 
 .subtitulo{
    display: flex;
-   width: 10px;
+   
    color: #193C33;
    flex-direction: row;
    margin: 0%;
