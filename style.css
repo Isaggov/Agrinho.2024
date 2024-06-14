@@ -62,9 +62,11 @@ div{
 .titulo{
    width: 135px;
    color: #193C33;
+   align-content: flex-start;
 }
 
 .subtitulo{
    width: 50px;
    color: #193C33;
+   align-content: flex-start;
 }
