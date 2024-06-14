@@ -60,13 +60,15 @@ div{
    justify-content: flex-start;  
 }
 .titulo{
+   display: flex;
    width: 135px;
    color: #193C33;
-   align-content: flex-start;
+   
 }
 
 .subtitulo{
+   display: flex;
    width: 50px;
    color: #193C33;
-   align-content: flex-start;
+   
 }
