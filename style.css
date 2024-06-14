@@ -13,10 +13,12 @@ header{
    
 }
  .titulo{
+   font-size: 52px;
    display: flex;
    color: #193C33;  
 }
 .subtitulo{
+   font-size: 40px;
    display: flex;
    color: #193C33;
   
@@ -42,7 +44,7 @@ header{
 div{ 
    padding: 30px;
 }
-@media screen and (min-width: 452px)
+@media screen and (min-width: 450px)
 
 
 .lalezar-regular {
