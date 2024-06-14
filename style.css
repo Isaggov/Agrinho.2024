@@ -64,6 +64,7 @@ div{
    width: 135px;
    color: #193C33;
    flex-direction: row;
+   margin: 0%;
    
 }
 
@@ -72,5 +73,6 @@ div{
    width: 50px;
    color: #193C33;
    flex-direction: row;
+   margin: 0%;
    
 }
