@@ -12,7 +12,16 @@ header{
    color: #193C33;
    
 }
- 
+ .titulo{
+   display: flex;
+   color: #193C33;  
+}
+.subtitulo{
+   display: flex;
+   color: #193C33;
+  
+}
+
 .intro{
    display: flex;
    align-items: flex-start;
@@ -59,22 +68,5 @@ div{
    flex-direction: column;
    justify-content: flex-start;  
 }
-.titulo{
-   display: flex;
 
-   color: #193C33;
-   flex-direction: row;
-   margin: 0%;
-   padding: 0px;
-   
-}
 
-.subtitulo{
-   display: flex;
-   
-   color: #193C33;
-   flex-direction: row;
-   margin: 0%;
-   padding: 0px;
-   
-}
