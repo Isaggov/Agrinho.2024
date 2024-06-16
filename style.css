@@ -40,9 +40,7 @@ header{
    color: rgb(18, 48, 41);
    margin: 1%;
    padding: 1% 10%;
-   flex-direction: column;
-
-   
+   flex-direction: column;  
 }
 
 .img{
@@ -60,7 +58,9 @@ div{
    }
  
 }
-
+.titparagrafo{
+   font-size: 90px;
+}
 .paragrafo{
    display: flex;
    font-size: xx-large;
