@@ -61,7 +61,7 @@ div{
 .texto1{
    display: flex;
    align-content: flex-start;
-   background-color: aliceblue;
+   background-color: rgb(255, 255, 255);
    margin: 1%;
    padding: 1% 10%;
    flex-direction: column;
@@ -71,7 +71,7 @@ div{
 .texto2{
    display: flex;
    align-content: flex-start;
-   background-color: aliceblue;
+   background-color: rgb(255, 255, 255);
    margin: 1%;
    padding: 1% 10%;
    flex-direction: column;
