@@ -58,7 +58,7 @@ div{
 } 
    
 
-.texto1{
+.texto{
    display: flex;
    align-content: flex-start;
    background-color: rgb(255, 255, 255);
