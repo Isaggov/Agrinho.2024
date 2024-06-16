@@ -30,7 +30,7 @@ header{
    display: flex;
    flex-direction: row;
    width:25px;
-   margin: auto;
+   margin: 0px;
    padding: 0%;
  }
 .intro{
