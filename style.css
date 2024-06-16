@@ -48,13 +48,7 @@ div{
    padding: 30px;
 }
 
-@media screen and (min-width:450){
-   .texto1{
-      font: size 90px;
-   }
-   .texto2{
-      font: size 90px;
-   }
+
 } 
 .paragrafo{
    display: flex;
