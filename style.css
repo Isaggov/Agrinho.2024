@@ -15,11 +15,13 @@ header{
    
 }
  .titulo{
+   font-family: "Lalezar", system-ui;
    font-size: 52px;
    display: flex;
    color: #193C33;  
 }
 .subtitulo{
+   font-family: "Lalezar", system-ui;
    font-size: 40px;
    display: flex;
    color: #193C33;
@@ -76,3 +78,9 @@ div{
    flex-direction: column;
    justify-content: flex-start;  
 }
+.lalezar-regular {
+   font-family: "Lalezar", system-ui;
+   font-weight: 400;
+   font-style: normal;
+ }
+ 
