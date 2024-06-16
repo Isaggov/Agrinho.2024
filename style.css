@@ -52,11 +52,13 @@ div{
    padding: 30px;
 }
 
-@media screen and (min-width:600px){
+@media screen and (min-width:700px){
    .paragrafo{
       font-size: medium;
    }
- 
+ .img{
+   width: 13%;
+ }
 }
 .titparagrafo{
    font-size: 60px;
