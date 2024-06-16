@@ -52,6 +52,9 @@ div{
    .paragrafo{
       font-size: medium;
    }
+   header{
+      align-items: stretch;
+   }
 }
 
 .paragrafo{
