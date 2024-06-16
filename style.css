@@ -69,16 +69,6 @@ div{
    font-size: large;  
 }
 
-.texto2{
-   display: flex;
-   align-content: flex-start;
-   background-color: rgb(255, 255, 255);
-   margin: 1%;
-   padding: 1% 10%;
-   flex-direction: column;
-   justify-content: flex-start; 
-   font-size: large; 
-}
 .lalezar-regular {
    font-family: "Lalezar", system-ui;
    font-weight: 400;
