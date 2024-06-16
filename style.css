@@ -78,17 +78,17 @@ div{
    font-weight: 400;
    font-style: normal;
  }
- @media screen and (min-width:700px){
+ @media screen and (min-width: 300px) and (max-width: 700px){
    .paragrafo{
-      font-size: medium;
+      font-size: xx-large;
    }
  .img{
-   width: 13%;
+   width: 19%;
  }
  .titulo{
-   font-size:35px;
+   font-size:52px;
  }
  .subtitulo{
-   font-size:25px;
+   font-size:32px;
  }
 }
