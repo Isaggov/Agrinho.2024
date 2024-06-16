@@ -50,10 +50,10 @@ div{
 
 @media screen and (min-width:450){
    .texto1{
-      font-size: xx-large;
+      font-size: 45px;
    }
    .texto2{
-      font-size: xx-large;
+      font-size:45px
    }
 } 
    
