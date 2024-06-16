@@ -56,7 +56,10 @@ div{
       font: size 90px;
    }
 } 
-   
+.paragrafo{
+   display: contents;
+   font-size: xx-large;
+}
 
 .texto{
    display: flex;
