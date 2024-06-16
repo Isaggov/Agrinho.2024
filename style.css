@@ -57,7 +57,7 @@ div{
    }
 } 
 .paragrafo{
-   display: contents;
+   display: flex;
    font-size: xx-large;
 }
 
