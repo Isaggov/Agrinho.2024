@@ -16,12 +16,12 @@ header{
 }
  .titulo{
    font-family: "Lalezar", system-ui;
-   font-size: 52px;
+   font-size: 35px;
    display: flex;
    color: #193C33;  
 }
 .subtitulo{
-   font-size: 38px;
+   font-size: 25px;
    display: flex;
    color: #193C33;
   
@@ -45,11 +45,11 @@ header{
 
 .img{
 
-   width: 19%;
+   width: 14%;
 }
 
 div{ 
-   padding: 30px;
+   padding: 40px;
 }
 
 
@@ -59,7 +59,7 @@ div{
 }
 .paragrafo{
    display: flex;
-   font-size: xx-large;
+   font-size: medium;
 }
 
 .texto{
@@ -70,7 +70,7 @@ div{
    padding: 1% 10%;
    flex-direction: column;
    justify-content: flex-start;
-   font-size: large;  
+   
 }
 
 .lalezar-regular {
