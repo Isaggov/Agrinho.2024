@@ -52,20 +52,7 @@ div{
    padding: 30px;
 }
 
-@media screen and (min-width:700px){
-   .paragrafo{
-      font-size: medium;
-   }
- .img{
-   width: 13%;
- }
- .titulo{
-   font-size:35px;
- }
- .subtitulo{
-   font-size:25px;
- }
-}
+
 .titparagrafo{
    font-size: 60px;
    color: #193C33;
@@ -91,4 +78,17 @@ div{
    font-weight: 400;
    font-style: normal;
  }
- 
+ @media screen and (min-width:700px){
+   .paragrafo{
+      font-size: medium;
+   }
+ .img{
+   width: 13%;
+ }
+ .titulo{
+   font-size:35px;
+ }
+ .subtitulo{
+   font-size:25px;
+ }
+}
