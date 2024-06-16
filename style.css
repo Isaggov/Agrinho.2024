@@ -28,7 +28,7 @@ header{
 }
  .img2{
    display: flex;
-   flex-direction: row;
+   flex-direction: row-reverse;
    width:25px;
    margin: 0px;
    padding: 0%;
