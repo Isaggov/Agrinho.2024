@@ -59,6 +59,12 @@ div{
  .img{
    width: 13%;
  }
+ .titulo{
+   font-size:35px;
+ }
+ .subtitulo{
+   font-size:25px;
+ }
 }
 .titparagrafo{
    font-size: 60px;
