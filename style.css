@@ -92,4 +92,7 @@ div{
  .subtitulo{
    font-size:32px;
  }
+ .body{
+   background-color: blueviolet;
+ }
 }
