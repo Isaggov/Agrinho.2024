@@ -78,6 +78,11 @@ div{
    display: flex;
    background: linear-gradient(to right, #193C33, #68867E);
    padding: auto;
+
+}
+.rodape{
+   width: 50px;
+   color: rgb(255, 255, 255);
 }
 .lalezar-regular {
    font-family: "Lalezar", system-ui;
