@@ -74,7 +74,10 @@ div{
    justify-content: flex-start;
    
 }
-
+.rodape1{
+   display: flex;
+   background: linear-gradient(to right, #193C33, #68867E);
+}
 .lalezar-regular {
    font-family: "Lalezar", system-ui;
    font-weight: 400;
