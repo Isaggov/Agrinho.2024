@@ -48,8 +48,8 @@ div{
    padding: 30px;
 }
 
-@media screen and (min-width;600px){
-   .texto{
+@media screen and (min-width:600px){
+   .paragrafo{
       font-size: medium;
    }
 }
